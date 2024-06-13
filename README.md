@@ -26,3 +26,12 @@ Httprob
 Fuff 
 <br>
 Httpx and more ...
+
+
+
+How To Install
+
+git clone https://github.com/malware-m/Tool-Installer.git
+chmod +x Tool-Installer
+cd Tool-Installer
+./toolinstall.sh
