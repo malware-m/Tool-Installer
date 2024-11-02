@@ -1,6 +1,8 @@
 
 #Burp
-http://5bhklzclxalzfp9cuyuc503e85ew2oqd.oastify.com
+http://4pujzyqkb9zytonb8x8bjzhdm4svgs4h
+http://4pujzyqkb9zytonb8x8bjzhdm4svgs4h.oastify.com
+https://4pujzyqkb9zytonb8x8bjzhdm4svgs4h.oastify.com
 
 echo "----------------------------------------------"
 
