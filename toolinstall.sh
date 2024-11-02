@@ -1,30 +1,6 @@
-#!/bin/bash
 
-echo " "
-echo "            *** Created By M@lware ***    "
-echo " "
-
-# Update and upgrade the system
-sudo apt update -y
-sudo apt upgrade -y
-# Create a directory for tools
-mkdir -p ~/Tools
-cd ~/Tools
-
-echo "----------------------------------------------"
-
-echo "Installing Sublist3r"
-sudo apt-get install -y sublist3r
-
-echo "----------------------------------------------"
-
-echo "Installing Golang"
-sudo apt install -y golang
-
-echo "----------------------------------------------"
-
-echo "Installing Eyewitness"
-sudo apt install -y eyewitness
+#Burp
+http://5bhklzclxalzfp9cuyuc503e85ew2oqd.oastify.com
 
 echo "----------------------------------------------"
 
